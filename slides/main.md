@@ -211,4 +211,8 @@ layout: false
 .small[`[2]` DARPA-ISTO, The DARPA TIMIT Acoustic-Phonetic Continuous Speech Corpus (TIMIT), 1990<br />]
 .small[`[3]` A. Graves et al., Connectionist Temporal Classification: Labelling Unsegmented Sequence Data with Recurrent Neural Networks, in ICML 2006.<br />]
 .small[`[4]` F. Gers et al., Learning Precise Timing with LSTM Recurrent Networks, in Journal of Machine Learning Research 2002.<br />]
+---
+name: last-page
+class: center, middle, no-number
+## Q&A
 <!-- vim: set ft=markdown: -->
