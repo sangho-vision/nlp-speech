@@ -69,7 +69,7 @@ layout: false
 ---
 # Towards End-to-End Training : Deep Bidirectional LSTMs
 - Deep (Stacked) RNNs
-  - crucial factor to model performance.
+  - crucial factor to model performance
 - Bidirectional LSTMs
   - utterances are transcribed at once
   - bidrectional long-range context
