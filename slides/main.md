@@ -73,7 +73,7 @@ layout: false
 - Bidirectional LSTMs
   - utterances are transcribed at once
   - bidrectional long-range context
-- LSTM augmented by "peephole conections"
+- LSTM augmented by "peephole connections"
   - direct connection from a cell state to gate layers
   - good for precise timing tasks `[4]`
 ---
