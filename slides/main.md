@@ -122,7 +122,7 @@ layout: false
 # Variants of CTC : Expected Transcription Loss
 - Loss : Expected value of an evaluation measure
   - forward/backward proprogation can be computd by Monte-Carlo sampling
-.center.img-50[![](images/montegradient.png)]
+.center.img-45[![](images/montegradient.png)]
 ---
 # Variants of CTC : Expected Transcription Loss
 - Loss : Expected value of an evaluation measure
